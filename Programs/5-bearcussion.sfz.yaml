@@ -1,0 +1,3478 @@
+elements:
+  - type: element
+    name: control
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: label_cc7
+          value: Master Vol
+      - type: element
+        name: opcode
+        attributes:
+          name: label_cc10
+          value: Master Pan
+      - type: element
+        name: opcode
+        attributes:
+          name: label_cc82
+          value: Stereo Spread
+      - type: element
+        name: opcode
+        attributes:
+          name: label_cc93
+          value: Master Tune
+      - type: element
+        name: opcode
+        attributes:
+          name: label_cc94
+          value: Tuning Spread
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc82
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: set_cc93
+          value: '63'
+  - type: element
+    name: global
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: one_shot
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch
+          value: '-1200'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc93
+          value: '2400'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-1200'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-1066'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-933'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-800'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-666'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-533'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-400'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-266'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-133'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-60'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '133'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '60'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '266'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-70'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '400'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '70'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '533'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '666'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '800'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-90'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '933'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '90'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '1066'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '1200'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_close_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_close_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_close_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_close_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-788'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-700'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-613'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '20'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-525'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/e1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-438'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-352'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-263'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-175'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '-88'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/a1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-60'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/bb1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '60'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/b1_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '175'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-70'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/c2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '263'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '70'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/db2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '350'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/d2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '438'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/eb2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '525'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-90'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/f2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '613'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '90'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/gb2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '700'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '-100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/g2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_oncc94
+          value: '788'
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc82
+          value: '100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_open_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.250'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_open_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.250'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_open_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.750'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/ab2_open_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.750'
+

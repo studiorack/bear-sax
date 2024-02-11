@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="../Samples/noise_breath.ogg" />
+	<opcode name="group" value="3" />
+	<opcode name="off_by" value="3" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="68" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="pitch_keytrack" value="10" />
+	<opcode name="amplitude_oncc122" value="40" />
+	<opcode name="xfin_hicc1" value="15" />
+	<opcode name="lfo02_volume_oncc110" value="-7" />
+	<opcode name="lfo02_volume_oncc113" value="0" />
+	<opcode name="lfo03_volume_oncc122" value="4" />
+</group>
+<region />

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="lokey" value="24" />
+	<opcode name="hikey" value="72" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="pitch_keytrack" value="10" />
+	<opcode name="amplitude_cc89" value="100" />
+	<opcode name="locc89" value="1" />
+	<opcode name="offset" value="50000" />
+	<opcode name="lfo01_volume_oncc101" value="-24" />
+	<opcode name="lfo03_volume_oncc118" value="6" />
+	<opcode name="hicc121" value="63" />
+	<opcode name="amp_velcurve_63" value="0.3" />
+</group>
+<region>
+	<opcode name="sample" value="../Samples/breath_osc_1.ogg" />
+	<opcode name="pan_oncc82" value="100" />
+	<opcode name="offset_random" value="34626" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/breath_osc_2.ogg" />
+	<opcode name="pan_oncc82" value="-100" />
+	<opcode name="offset_random" value="24614" />
+</region>

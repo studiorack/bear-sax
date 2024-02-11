@@ -1,0 +1,1723 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: sw_last
+          value: '28'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: sw_label
+          value: sub
+      - type: element
+        name: opcode
+        attributes:
+          name: xfin_hicc1
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_f1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_f1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_f1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_f1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_gb1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_gb1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_g1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_g1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_ab1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '44'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_ab1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '44'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_a1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_a1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_bb1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '46'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_bb1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '46'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_b1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_b1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_c2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_c2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_db2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_db2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_d2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_d2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_f1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_f1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_gb1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_gb1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_g1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_g1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '43'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_ab1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '44'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_ab1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '44'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_a1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_a1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_bb1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '46'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_bb1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '46'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_b1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_b1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_c2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_c2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_db2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_db2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_d2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_d2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_db2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_db2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_d2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_d2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_eb2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/subtone_e2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '52'
+
